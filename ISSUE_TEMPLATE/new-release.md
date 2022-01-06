@@ -1,6 +1,6 @@
-Title: Release *****/REPO
+Title: Release *****/monproweb
 
-I'm going to share [REPO name](REPO link) with the world, but before I do, I want to make sure:
+I'm going to share [monproweb](https://github.com/monproweb/monproweb) with the world, but before I do, I want to make sure:
 
 ## Coordination
 
