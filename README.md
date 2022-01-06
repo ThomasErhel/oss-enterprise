@@ -18,6 +18,8 @@ Before you open source your project, consider the effort required to maintain it
 
 #### Who owns the code I contribute to open source projects?
 
+👩‍💻🧑‍💻👨‍💻 Everyone 🌍🌎🌏
+
 ## License
 
-This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
+This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2022 GitHub, Inc.
