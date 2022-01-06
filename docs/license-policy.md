@@ -2,8 +2,8 @@
 
 ### Our Preferred Licenses
 
-- For software projects, we use xx
-- For documentation projects, we use yy
+- For software projects, we use GNU GPL v3
+- For documentation projects, we use GNU FDL
 
 ### Acceptable Licenses
 
